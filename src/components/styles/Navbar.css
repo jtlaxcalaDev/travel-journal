@@ -1,0 +1,16 @@
+.nav--container {
+  background-color: #181818;
+  height: 4em;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #F2F2F2;
+  font-weight: 600;
+  position: absolute;
+}
+
+.nav--logo{
+  width: 28px;
+  margin-right: 10px;
+}

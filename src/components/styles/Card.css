@@ -1,0 +1,54 @@
+.card {
+  display: flex;
+  width: 70%;
+  margin: 2em auto 2em auto;
+  align-items: center;
+}
+
+.place--image {
+  width: 10em;
+  margin-right: 2em;
+  border-radius: 8px;
+}
+
+.card-resume {
+  color: #181818;
+}
+
+.place--location {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 300;
+  margin-bottom: 6px;
+  font-size: small;
+}
+
+.place--map {
+  font-size: smaller;
+  color: #81c4e4;
+}
+
+.place--title {
+  color: #8758FF;
+  font-weight: bold;
+  font-size: 28px;
+  margin-bottom: 24px;
+  cursor: pointer;
+}
+
+.place--wiki {
+  text-decoration: none;
+  color: #8758FF;
+}
+
+.place--date {
+  font-weight: 600;
+  font-size: small;
+  margin-bottom: 10px;
+}
+
+.place--description {
+  font-size: small;
+  line-height: 22px;
+}
